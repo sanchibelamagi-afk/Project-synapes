@@ -1,0 +1,4 @@
+- OpenAI documentation
+- Anthropic documentation
+- YouTube
+- white pappers
