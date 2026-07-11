@@ -1,0 +1,4 @@
+- How are LLMs trained?
+- What is a transformer?
+- How much data does claude use?
+- Why do AI models hallucinate?
